@@ -51,7 +51,7 @@ dependencies:
   go_router: 12.1.1
   provider: ^6.0.5
   sizing:
-  google_fonts:
+  google_fonts: 6.1.0
   toast: ^0.2.9
   shared_preferences:
   flutter_launcher_icons: ^0.13.1
@@ -60,8 +60,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   encrypt: ^5.0.1
   crypto: ^3.0.1
-  uni_links:
-  firebase_messaging:
+  # uni_links:
+  firebase_messaging: 14.6.7
   flutter_local_notifications: 12.0.0
   animated_snack_bar: ^0.2.0
   animated_bottom_navigation_bar: ^1.2.0
@@ -72,7 +72,7 @@ dependencies:
   mask_text_input_formatter:
   share_plus:
   image_picker: ^0.8.7
-  syncfusion_flutter_pdfviewer:
+  syncfusion_flutter_pdfviewer: 22.2.12
   scrollable_positioned_list:
   geocoding:
   http:
