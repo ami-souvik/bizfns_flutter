@@ -1,0 +1,41 @@
+{
+  "service_entity_items" : [
+    {
+      "type": 1,
+      "question" : "Customer Name",
+      "answer" : "",
+      "items": []
+    },
+    {
+      "type": 1,
+      "question" : "Customer Phone Number",
+      "answer" : "",
+      "items": []
+    },
+    {
+      "type": 2,
+      "question" : "Type",
+      "answer" : "",
+      "items" : ["type 1", "type 2"]
+    },
+    {
+      "type" : 3,
+      "question" : "",
+      "answer" : "",
+      "row_item" : [
+        {
+          "type": 1,
+          "question" : "Customer Phone Number",
+          "answer" : "",
+          "items": []
+        },
+        {
+          "type": 2,
+          "question" : "Type",
+          "answer" : "",
+          "items" : ["type 1", "type 2"]
+        }
+      ]
+    }
+  ]
+}

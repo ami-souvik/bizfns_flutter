@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "591450472835",
+    "project_id": "bizfns-97da8",
+    "storage_bucket": "bizfns-97da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591450472835:android:c18f07bca903e6bef9f6b6",
+        "android_client_info": {
+          "package_name": "com.maxmob.bizfns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591450472835-h4l621e2va9dd6kqltbo2cfu3ub1soc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maxmob.bizfns",
+            "certificate_hash": "0d43c193614024e6e155dc049bfc78be7d7ade9a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2u6K0fatCn7ZKVx7XPZgj3-LRUcdJ96A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

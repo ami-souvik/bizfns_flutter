@@ -1,0 +1,11 @@
+const String token = 'token';
+const String userType = 'userType';
+const String userId = 'userId';
+const String companyId = 'companyId';
+const String companyName = 'companyName';
+const String userName = 'userName';
+const String userEmail = 'userEmail';
+const String fcmToken = 'fcmToken';
+const String loggedIn = 'isLoggedIn';
+const String isSequrityQuestionAnswered = 'answered';
+const String loginData = 'loginData';
